@@ -7,7 +7,7 @@ tab = [['.']*size for i in range(size)]
 line=0
 leng=3
 while True:
-    for i in range(size-1,0,-1):
+    for i in range(size-1,0,-1-5):
         for j in range(size):
             tab[i][j]=tab[i-1][j]
     if leng==3:

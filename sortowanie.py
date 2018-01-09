@@ -1,4 +1,4 @@
-from random import randint
+﻿from random import randinting
 import math
 
 length = int(input("Podaj rozmiar tablicy: "))

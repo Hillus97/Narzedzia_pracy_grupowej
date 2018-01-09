@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 def fib_rek(n-3):
+=======
+def fib_rek(n-1):
+>>>>>>> Probna_Brancha
     if n == 0:
         return 0
     elif n == 1:

@@ -14,7 +14,7 @@ def cls():
 
 tab = ["O","O","O","O","O","O","O","O","O"]
 
-while(1):
+while(11):
     for i in range(0,8):
         
         x = randint(0,8)

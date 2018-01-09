@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿from random import randint
+=======
+﻿from random import randinting
+>>>>>>> Probna_Brancha
 import math
 
 length = int(input("Podaj rozmiar tablicy: "))

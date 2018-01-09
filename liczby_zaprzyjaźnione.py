@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿#program wypisujący pary liczb zaprzyjaźnionych mniejszych od n + 10 pamietja
+=======
+﻿#program wypisujący pary liczb zaprzyjaźnionych mniejszych od n+1
+>>>>>>> Probna_Brancha
 
 def szukanie_dzielnikow(a):
   dzielniki = []

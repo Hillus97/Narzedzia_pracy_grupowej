@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿def przygotowanie(tekstowy ogorek):
+=======
+﻿def przygotowanie(tekstowo):
+>>>>>>> Probna_Brancha
     tekst = tekst.lower()
     for i in tekst:
         if  ord(i)<97 or ord(i)>122:

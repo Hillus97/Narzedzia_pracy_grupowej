@@ -1,9 +1,9 @@
-from random import randint
+﻿from random import randint
 import math
 
 length = int(input("Podaj rozmiar tablicy: "))
 
-tab = []
+tab = [1]
 for i in range(length):
     x = randint(0, 25)
     tab.append(x)

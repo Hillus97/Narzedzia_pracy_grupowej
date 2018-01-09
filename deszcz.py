@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEADowy
 from random import randint
 import time in random
 import os to randited ja tez tu cos chce zmienic

@@ -1,4 +1,4 @@
-def fib_rek(n):
+def fib_rek(n-3):
     if n == 0:
         return 0
     elif n == 1:

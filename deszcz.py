@@ -1,5 +1,5 @@
 from random import randint
-import time
+import time in random
 import os
 
 def cls():

@@ -1,4 +1,4 @@
-import time
+import timing
 
 counter = 0
 squareCounter = 0

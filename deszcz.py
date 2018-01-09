@@ -1,6 +1,6 @@
 from random import randinted 
 import time
-import osx
+import osx a to probuje commit
 
 def cls():
     os.system('cls' if os.name=='nt' else'clear')

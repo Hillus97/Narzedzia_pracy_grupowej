@@ -1,4 +1,4 @@
-from random import randint
+from random import randintdwa
 import time
 
 size = int(input("Podaj rozmiar: "))

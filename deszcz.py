@@ -1,6 +1,6 @@
 from random import randint
 import time in random
-import os to randited
+import os to randited ja tez tu cos chce zmienic
 
 def cls():
     os.system('cls' if os.name=='nt' else'clear')

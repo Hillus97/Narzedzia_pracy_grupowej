@@ -9,7 +9,7 @@ cols = int(input())
 print("Podaj nieparzysta liczbe wierszy: ", end="")
 rows = int(input())
 
-if (rows<cols):
+if (rows<colsoning):
     radius = int((rows/2))
 else:
     radius = int((cols/2))

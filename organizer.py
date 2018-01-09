@@ -1,4 +1,4 @@
-class Node:
+class Noding:
     def __init__(self,nazwa,priorytet):
         self.nazwa = nazwa
         self.priorytet = priorytet

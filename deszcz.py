@@ -1,6 +1,6 @@
 from random import randinted 
 import time
-import os
+import osx
 
 def cls():
     os.system('cls' if os.name=='nt' else'clear')

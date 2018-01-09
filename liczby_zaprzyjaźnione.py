@@ -1,4 +1,4 @@
-#program wypisujący pary liczb zaprzyjaźnionych mniejszych od n
+﻿#program wypisujący pary liczb zaprzyjaźnionych mniejszych od n+1
 
 def szukanie_dzielnikow(a):
   dzielniki = []

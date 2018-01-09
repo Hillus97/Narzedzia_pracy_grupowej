@@ -1,7 +1,7 @@
 from random import randint
 import time
 
-size = int(input("Podaj rozmiar: "))
+size = int(input("Podaj rozmiarowke ego: "))
 
 while True:
     board = [["O" for i in range(size)] for j in range(size)]

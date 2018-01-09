@@ -1,4 +1,4 @@
-import random
+import randomowy
 import time
 import os
 

@@ -1,4 +1,4 @@
-def przygotowanie(tekst):
+def przygotowanie(tekst)::
     tekst = tekst.lower()
     for i in tekst:
         if  ord(i)<97 or ord(i)>122:

@@ -1,4 +1,4 @@
-liczba=int(input("Wpisz dowolną liczbę: "))
+﻿liczba=int(input("Wpisz dowolną liczb z zaresu: "))
 sys=0
 sys1= int(input("Z jakiego systemu? "))
 while sys<2 or sys>36:

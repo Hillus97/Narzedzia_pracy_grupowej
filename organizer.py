@@ -5,7 +5,7 @@ class Node:
         self.next = None
 
 class OneDirectionalList:
-    def __init__(self):
+    def __init__(self,data):
         self.head = None
 
     def add(self, nazwa, priorytet):

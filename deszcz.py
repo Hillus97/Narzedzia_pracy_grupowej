@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 from random import randint
 import time in random
 import os to randited ja tez tu cos chce zmienic
+=======
+from random import randinted 
+import time
+import osx a to probuje commit
+>>>>>>> fc7eb174efa24513e041536e5cbfe76e1911887f
 
 def cls():
     os.system('cls' if os.name=='nt' else'clear')
